@@ -51,16 +51,16 @@ Wk  | Lecture | Readings | Resources
 3 | Sep 15: Cortical Networks <br> Sep 17: Moonshot 1| | 
 4 | Sep 22: Methods <br> Sep 24: BQP| | Exam 1 due
 5 | Sep 29: Sounds & Phonemes<br> Oct 1: Moonshot 2 | | 
-6 | Oct 6: Words <br> Oct 8: Moonshot 2 cont.| |
+6 | Oct 6: Words <br> Oct 8: | |
 7 | Oct 13: Syntax I <br> Oct 15: Moonshot 3  | | 
-8 | Oct 20: Syntax II <br> Oct 22: Moonshot 3 cont.| | Exam 2 due
+8 | Oct 20: Syntax II <br> Oct 22: | | Exam 2 due
 9 | Oct 27: Semantics <br> Oct 29: Moonshot 4 | |
-10 | Nov 3:  Acquisition <br> Nov 5: Moonshot 4 cont. | |
+10 | Nov 3:  Acquisition <br> Nov 5:  | |
 11 | Nov 10: Sign Language <br> Nov 12: Moonshot 5 | | 
-12 | Nov 17: Bilingualism <br> Nov 19: Moonshot 5 cont | | Exam 3 due
+12 | Nov 17: Bilingualism <br> Nov 19:  | | Exam 3 due
 13 | Nov 24: **No Class** <br> Nov 26: **Thanksgiving Break** | | 
 14 | Dec 1: Evolution <br> Dec 3: Poster Feedback   | |
-15 | Dec 8: Cerebellum <br> Dec 10: Poster Session! | | BlogPost6
+15 | Dec 8: Cerebellum <br> Dec 10: Poster Session! | | 
 16 | Dec 15: Finals Week | | Exam 4 due
 
 
