@@ -11,8 +11,8 @@ title: LING104
 remote from Philadelphia, PA (Neighborhood: Mt. Airy)<br>
 Office Hours: TBD
 
-### TAs
-[Yiran Chen](mailto:cheny39@sas.upenn.edu) - Office Hours TBD
+TA: [Yiran Chen](mailto:cheny39@sas.upenn.edu)
+Office Hours TBD
 
 
 ## When we can help
