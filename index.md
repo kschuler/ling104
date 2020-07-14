@@ -45,8 +45,8 @@ Schedule is subject to change. All lectures will be recorded and [posted on Pano
 
 Wk  | Lecture | Readings | Resources
   --- | --- | --- | ---
-1 | Sep 1: Course Overview <br> Sep 3: CNS Overview| | [Group Intrest Survey]() <br>[Week 1 Notes](https://docs.google.com/document/d/1PRnxbS35voE_a0O-zt9b5AgpzA90kzHGQmPOjIeMIoo)
-2 | Sep 8: Neurons <br> Sep 10: Moonshot Project Kickoff | | [Week 2 Neurons](https://docs.google.com/document/d/10m2TaXG4dH76JJWaoWzONSnLYD6Opt5RjLd1bbx04pE/edit?usp=sharing)
+1 | Sep 1: Course Overview <br> Sep 3: CNS Overview| | [Group Intrest Survey]() <br>[Notes on the CNS](https://docs.google.com/document/d/1PRnxbS35voE_a0O-zt9b5AgpzA90kzHGQmPOjIeMIoo)
+2 | Sep 8: Neurons <br> Sep 10: Moonshot Project Kickoff | | [Notes on Neurons](https://docs.google.com/document/d/10m2TaXG4dH76JJWaoWzONSnLYD6Opt5RjLd1bbx04pE/edit?usp=sharing)
 3 | Sep 15: Cortical Networks <br> Sep 17: Moonshot 1| | 
 4 | Sep 22: Methods <br> Sep 24: BQP| | Exam 1 due
 5 | Sep 29: Sounds & Phonemes<br> Oct 1: Moonshot 2 | | 
