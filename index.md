@@ -14,11 +14,13 @@ TA: [Yiran Chen](mailto:cheny39@sas.upenn.edu)
 Office Hours TBD
 
 
-## When we can help
+## Getting help
+
+- **Comments on google docs & slides:** Each week you'll be given links to lecture slides, notes, and assignments (see Schedule). One way to get help from instructors or classmates is to ask questions right on the documents. 
 
 - **Piazza:** The best way to get help anytime is to ask a question on the [Piazza discussion board](https://piazza.com/upenn/fall2020/ling104). Instructors will typically respond to questions within 24 hours.
 
-- **Office Hours:** The best way to get help face-to-face is to attend video Office Hours on Zoom! If you aren't able to make it, email Katie or Yiran to schedule an appointment for another time.
+- **Office Hours:** If you prefer chatting with a person, you can join one of us for video Office Hours on Zoom. If our posted hours don't work, email Katie or Yiran to set up an appointment for another time.
 
 
 ## Overview
@@ -28,17 +30,16 @@ This course offers an introduction to the brain basis of language. Its primary g
 
 ### Materials
 
-- **[Course website](index.html)** (you are here) for schedule, policies, and links to all assigned materials
-- **[Canvas site](https://canvas.upenn.edu/courses/1530046)** for announcements and grade related things
+- **[Course website](index.html)** (you are here) for schedule, policies, and links to all assigned materials and a **[Canvas site](https://canvas.upenn.edu/courses/1530046)** for announcements and grade related things.
 - **[Class blog](https://languageandthebrain.org)** for group projects
 - **[Piazza](https://piazza.com/upenn/fall2020/ling104)** for online discussion
 
 ### Evaluation
 - **Exams (75%)** - There are four take-home exams, but the lowest exam score is dropped.
-- **Moonshot group project (25%)** -  You'll work as a group to find a solution to a big question in language and the brain. Your group will write 6 blog posts on your progress (25 points each) and present a poster (virtually!) on the final day of class (100 points).
+- **Moonshot group project (25%)** -  You'll work in groups of 3 to find a solution to a big question in language and the brain. Your group will write 6 blog posts on your progress (25 points each) and present a poster (virtually!) on the final day of class (100 points).
 
 ### Extra Credit
--  **Research bonus:** Add up to 3% points to your final grade. Earn 1% bonus for each hour of research participation via SONA and/or a 1% bonus for ~~attending~~ watching a language-related talk ~~or event on campus~~ online ([here is a list of extra-credit elligible talks on youtube](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vT2HlyiQvL7kyYcxfT6mFVLjOzqnlsst_rmb2eGQFphNa7DCYQ-5Fl9F1pw4GhmKLh1yaWjrGBf7LK2/pubhtml?gid=0&single=true)).
+-  **Research bonus:** Add up to 3% points to your final grade. Earn 1% watching a language and brain related talk ~~or event on campus~~ online ([here is a list of extra-credit elligible talks on youtube](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vT2HlyiQvL7kyYcxfT6mFVLjOzqnlsst_rmb2eGQFphNa7DCYQ-5Fl9F1pw4GhmKLh1yaWjrGBf7LK2/pubhtml?gid=0&single=true)).
 
 ## Schedule
 Schedule is subject to change. All lectures will be recorded and [posted on Panopto](404.html) a few minutes after each class.
