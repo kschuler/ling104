@@ -29,17 +29,16 @@ This course offers an introduction to the brain basis of language. Its primary g
 ### Materials
 
 - **[Course website](index.html)** (you are here) for schedule, policies, and links to all assigned materials
-- **[Canvas site](404.html)** for announcements and grade related things
-- **[Perusall](https://app.perusall.com/courses/language-and-the-brain/_/dashboard)** for reading assignments (access code released at first class meeting), most of which come from [Language in our Brain](https://mitpress.mit.edu/books/language-our-brain) (in case you prefer a paper copy).
+- **[Canvas site](https://canvas.upenn.edu/courses/1530046)** for announcements and grade related things
+- **[Class blog](https://languageandthebrain.org)** for group projects
 - **[Piazza](https://piazza.com/upenn/fall2020/ling104)** for online discussion
 
 ### Evaluation
 - **Exams (75%)** - There are four take-home exams, but the lowest exam score is dropped.
-- **Moonshot group project (25%)** -  You'll work as a group to find a solution to a big question in language and the brain. Your group will write 6 blog posts on your progress and present a poster (virtually!) on the final day of class.
+- **Moonshot group project (25%)** -  You'll work as a group to find a solution to a big question in language and the brain. Your group will write 6 blog posts on your progress (25 points each) and present a poster (virtually!) on the final day of class (100 points).
 
 ### Extra Credit
 -  **Research bonus:** Add up to 3% points to your final grade. Earn 1% bonus for each hour of research participation via SONA and/or a 1% bonus for ~~attending~~ watching a language-related talk ~~or event on campus~~ online ([here is a list of extra-credit elligible talks on youtube](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vT2HlyiQvL7kyYcxfT6mFVLjOzqnlsst_rmb2eGQFphNa7DCYQ-5Fl9F1pw4GhmKLh1yaWjrGBf7LK2/pubhtml?gid=0&single=true)).
-- **Reading bonus:** Add 1% point to your final grade by being a member of the group with the [most engagement on perusall](resources/how-perusall-works.pdf). You must engage with most readings to be eligible.
 
 ## Schedule
 Schedule is subject to change. All lectures will be recorded and [posted on Panopto](404.html) a few minutes after each class.
