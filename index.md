@@ -5,9 +5,6 @@ title: LING104
 
 <h2 align="center">Fall 2020 Syllabus</h2>
 <h3 align="center">Tuesdays & Thursdays <b>Online</b></h3>
-<br>
-<h4 align="center"><b>**LING104 will be fully remote!**</b></h4>
-
 <hr>
 
 [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
