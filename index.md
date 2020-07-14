@@ -6,11 +6,11 @@ title: LING104
 <h2 align="center">Fall 2020 Syllabus</h2>
 <h3 align="center">Tuesdays & Thursdays <b>Online</b></h3>
 
-[Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
+[Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu) | Instructor
 remote from Philadelphia, PA (Neighborhood: Mt. Airy)<br>
 Office Hours: TBD
 
-TA: [Yiran Chen](mailto:cheny39@sas.upenn.edu)
+[Yiran Chen](mailto:cheny39@sas.upenn.edu) | Teaching Assistant
 Office Hours TBD
 
 
@@ -39,7 +39,7 @@ This course offers an introduction to the brain basis of language. Its primary g
 - **Moonshot group project (25%)** -  You'll work in groups of 3 to find a solution to a big question in language and the brain. Your group will write 6 blog posts on your progress (25 points each) and present a poster (virtually!) on the final day of class (100 points).
 
 ### Extra Credit
--  **Research bonus:** Add up to 3% points to your final grade. Earn 1% watching a language and brain related talk ~~or event on campus~~ online ([here is a list of extra-credit elligible talks on youtube](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vT2HlyiQvL7kyYcxfT6mFVLjOzqnlsst_rmb2eGQFphNa7DCYQ-5Fl9F1pw4GhmKLh1yaWjrGBf7LK2/pubhtml?gid=0&single=true)).
+-  **Community engagement:** For each moonshot assignment, earn 5 points by making kind, constructive comments on other teams' blog posts. 
 
 ## Schedule
 Schedule is subject to change. All lectures will be recorded and [posted on Panopto](404.html) a few minutes after each class.
