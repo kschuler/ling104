@@ -47,22 +47,22 @@ Schedule is subject to change. All lectures will be recorded and [posted on Pano
 
 Wk  | Lecture | Readings | Resources
   --- | --- | --- | ---
-1 | Sep 1: <br> Sep 3: Overview| | [Week 1 Notes](https://docs.google.com/document/d/1PRnxbS35voE_a0O-zt9b5AgpzA90kzHGQmPOjIeMIoo)
-2 | Sep 8: <br> Sep 10: Neurons | | [Week 2 Neurons](https://docs.google.com/document/d/10m2TaXG4dH76JJWaoWzONSnLYD6Opt5RjLd1bbx04pE/edit?usp=sharing) <br>[Blog 0 due](https://docs.google.com/document/d/1R1Kg8u-a-HrHxRMTSBi6Wd1KjRrRTWkI7H1oB5bquEY)
-3 | Sep 15: <br> Sep 17: Networks | | Blog 1 due
-4 | Sep 22: <br> Sep 24: Methods | | Exam 1 due
-5 | Sep 29: <br> Oct 1: Sounds & Phonemes | | Blog 2 due
-6 | Oct 6: <br> Oct 8: Words | |
-7 | Oct 13: <br> Oct 15: ?? | | Blog 3 due
-8 | Oct 20: <br> Oct 22: Syntax | | Exam 2 due
-9 | Oct 27: <br> Oct 29: Semantics | | Blog 4 due
-10 | Nov 3: <br> Nov 5: Billingualism| |
-11 | Nov 10: <br> Nov 12: Sign Language| | Blog 5 due
-12 | Nov 17: <br> Nov 19: Acquisition | | Exam 3 due
-13 | Nov 24: <br> Nov 26: Evolution; TNXGIVNG BREAK | | 
-14 | Dec 1 <br> Dec 3:  Cerebellum | |
-15 | Dec 8: <br> Dec 10: Review | | BlogPost6
-16 | Dec 15: <br> Dec 17: Finals | | Exam 4 due
+1 | Sep 1: Course Overview <br> Sep 3: CNS Overview| | [Group Intrest Survey]() <br>[Week 1 Notes](https://docs.google.com/document/d/1PRnxbS35voE_a0O-zt9b5AgpzA90kzHGQmPOjIeMIoo)
+2 | Sep 8: Neurons <br> Sep 10: Moonshot Project Kickoff | | [Week 2 Neurons](https://docs.google.com/document/d/10m2TaXG4dH76JJWaoWzONSnLYD6Opt5RjLd1bbx04pE/edit?usp=sharing)
+3 | Sep 15: Cortical Networks <br> Sep 17: Moonshot 1| | 
+4 | Sep 22: Methods <br> Sep 24: BQP| | Exam 1 due
+5 | Sep 29: Sounds & Phonemes<br> Oct 1: Moonshot 2 | | 
+6 | Oct 6: Words <br> Oct 8: Moonshot 2 cont.| |
+7 | Oct 13: Syntax I <br> Oct 15: Moonshot 3  | | 
+8 | Oct 20: Syntax II <br> Oct 22: Moonshot 3 cont.| | Exam 2 due
+9 | Oct 27: Semantics <br> Oct 29: Moonshot 4 | |
+10 | Nov 3:  Acquisition <br> Nov 5: Moonshot 4 cont. | |
+11 | Nov 10: Sign Language <br> Nov 12: Moonshot 5 | | 
+12 | Nov 17: Bilingualism <br> Nov 19: Moonshot 5 cont | | Exam 3 due
+13 | Nov 24: **No Class** <br> Nov 26: **Thanksgiving Break** | | 
+14 | Dec 1: Evolution <br> Dec 3: Poster Feedback   | |
+15 | Dec 8: Cerebellum <br> Dec 10: Poster Session! | | BlogPost6
+16 | Dec 15: Finals Week | | Exam 4 due
 
 
 ## How to do well in LING104
