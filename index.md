@@ -6,11 +6,11 @@ title: LING104
 <h2 align="center">Fall 2020 Syllabus</h2>
 <h3 align="center">Tuesdays & Thursdays <b>Online</b></h3>
 
-[Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu) | Instructor 
+[Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu) | Instructor <br>
 remote from Philadelphia, PA (Neighborhood: Mt. Airy)<br>
 Office Hours: TBD
 
-[Yiran Chen](mailto:cheny39@sas.upenn.edu) | Teaching Assistant 
+[Yiran Chen](mailto:cheny39@sas.upenn.edu) | Teaching Assistant <br>
 Office Hours TBD
 
 
