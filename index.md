@@ -43,23 +43,23 @@ This course offers an introduction to the brain basis of language. Its primary g
 - **Reading bonus:** Add 1% point to your final grade by being a member of the group with the [most engagement on perusall](resources/how-perusall-works.pdf). You must engage with most readings to be eligible.
 
 ## Schedule
-Schedule is subject to change. All lectures will be recorded and [posted here](404.html) a few minutes after each class.
+Schedule is subject to change. All lectures will be recorded and [posted on Panopto](404.html) a few minutes after each class.
 
 Wk  | Lecture | Readings | Resources
   --- | --- | --- | ---
-1 | Sep 1: <br> Sep 3: Overview| |
-2 | Sep 8: <br> Sep 10: Neurons | |
-3 | Sep 15: <br> Sep 17: Networks | |
+1 | Sep 1: <br> Sep 3: Overview| | [Week 1 Notes](https://docs.google.com/document/d/1PRnxbS35voE_a0O-zt9b5AgpzA90kzHGQmPOjIeMIoo)
+2 | Sep 8: <br> Sep 10: Neurons | | [Week 2 Neurons](https://docs.google.com/document/d/10m2TaXG4dH76JJWaoWzONSnLYD6Opt5RjLd1bbx04pE/edit?usp=sharing) <br>[Blog 0 due](https://docs.google.com/document/d/1R1Kg8u-a-HrHxRMTSBi6Wd1KjRrRTWkI7H1oB5bquEY)
+3 | Sep 15: <br> Sep 17: Networks | | Blog 1 due
 4 | Sep 22: <br> Sep 24: Methods | | Exam 1 due
-5 | Sep 29: <br> Oct 1: Sounds & Phonemes | |
+5 | Sep 29: <br> Oct 1: Sounds & Phonemes | | Blog 2 due
 6 | Oct 6: <br> Oct 8: Words | |
-7 | Oct 13: <br> Oct 15: ?? | |
+7 | Oct 13: <br> Oct 15: ?? | | Blog 3 due
 8 | Oct 20: <br> Oct 22: Syntax | | Exam 2 due
-9 | Oct 27: <br> Oct 29: Semantics | | BlogPost3
+9 | Oct 27: <br> Oct 29: Semantics | | Blog 4 due
 10 | Nov 3: <br> Nov 5: Billingualism| |
-11 | Nov 10: <br> Nov 12: Sign Language| | BlogPost4
+11 | Nov 10: <br> Nov 12: Sign Language| | Blog 5 due
 12 | Nov 17: <br> Nov 19: Acquisition | | Exam 3 due
-13 | Nov 24: <br> Nov 26: Evolution; TNXGIVNG BREAK | | BlogPost5
+13 | Nov 24: <br> Nov 26: Evolution; TNXGIVNG BREAK | | 
 14 | Dec 1 <br> Dec 3:  Cerebellum | |
 15 | Dec 8: <br> Dec 10: Review | | BlogPost6
 16 | Dec 15: <br> Dec 17: Finals | | Exam 4 due
