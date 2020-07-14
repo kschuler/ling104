@@ -5,7 +5,6 @@ title: LING104
 
 <h2 align="center">Fall 2020 Syllabus</h2>
 <h3 align="center">Tuesdays & Thursdays <b>Online</b></h3>
-<hr>
 
 [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 remote from Philadelphia, PA (Neighborhood: Mt. Airy)<br>
