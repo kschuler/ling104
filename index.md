@@ -16,7 +16,7 @@ Office Hours TBD
 
 ## Getting help
 
-- **Comments on google docs & slides:** Each week you'll be given links to lecture slides, notes, and assignments (see Schedule). One way to get help from instructors or classmates is to ask questions right on the documents. 
+- **Comment on google docs & slides:** Each week you'll be given links to lecture slides, notes, and assignments (see [Schedule](#schedule)). One way to get help from instructors or classmates is to ask questions right on the documents. 
 
 - **Piazza:** The best way to get help anytime is to ask a question on the [Piazza discussion board](https://piazza.com/upenn/fall2020/ling104). Instructors will typically respond to questions within 24 hours.
 
