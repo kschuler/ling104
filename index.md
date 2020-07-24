@@ -33,7 +33,7 @@ This course offers an introduction to the brain basis of language. Our goal is t
 - **Exams (75%)** - There are four take-home exams, but the lowest exam score is dropped.
 - **Moonshot group project (25%)** -  You'll work in groups of 3 to find a solution to a big question in language and the brain. Your group will write 6 blog posts on your progress (25 points each), and present a poster (virtually!) on the final day of class (100 points).
 
-### Extra Credit
+### Extra credit
 - **Community engagement:** For each moonshot assignment, earn 5 points by making kind, constructive comments on other teams' blog posts. 
 - **Research bonus:** Earn 10 bonus points for attending (live or later) any MINDCore seminar this semester and writing a [short paper](404.html) on how it connects to what you've learned in class.
 
@@ -42,6 +42,13 @@ This course offers an introduction to the brain basis of language. Our goal is t
 - **Campuswire:** The best way to get help anytime is to ask a question on the [Campuswire discussion board](https://campuswire.com/p/GD0DDA8D5). Instructors will typically respond within 24 hours. You'll often get a response from a classmate even sooner!
 - **Office Hours:** If you prefer chatting with a person, you can join one of us for video Office Hours on Zoom. If our posted hours don't work, email Professor Schuler or Yiran to set up an appointment for another time.
 
+### Typical week
+Each week we'll do two things (1) explore a particular topic in language the the brain and (2) attempt to make progress on your Moonshot progress.
+- **Tuesdays** - On Tuesdays, I'll give a short lecture on our topic for the week and we'll usually do an activity (like a brain anatomy lab or learning how to read an academic journal article). 
+- **Thursdays** - On Thursdays, we'll finish up our activity and summarise what we learned. Then, we'll turn to working our group Moonshot projects. Yiran and I will drop in to your breakout rooms to help answer your questions and move your project forward.
+- **Fridays** - Friday is deadline day! Usually you'll either have a group blog post or an exam due.
+
+
 ## Schedule
 Schedule is subject to change. All lectures will be recorded and [posted on Panopto](404.html) a few minutes after each class.
 
@@ -49,19 +56,19 @@ Wk  | Lecture | Readings | Resources
   --- | --- | --- | ---
 1 | Sep 1: Course Overview <br> Sep 3: CNS Overview| | [Group Interest Survey]() <br>[Notes on the CNS](https://docs.google.com/document/d/1PRnxbS35voE_a0O-zt9b5AgpzA90kzHGQmPOjIeMIoo)
 2 | Sep 8: Neurons <br> Sep 10: [Moonshot Project Kickoff](https://docs.google.com/document/d/1R1Kg8u-a-HrHxRMTSBi6Wd1KjRrRTWkI7H1oB5bquEY/edit) | | [Notes on Neurons](https://docs.google.com/document/d/10m2TaXG4dH76JJWaoWzONSnLYD6Opt5RjLd1bbx04pE/edit?usp=sharing)
-3 | Sep 15: Cortical Networks <br> Sep 17: Moonshot 1| | 
-4 | Sep 22: Methods <br> Sep 24: BQP| | Exam 1 due
-5 | Sep 29: Sounds & Phonemes<br> Oct 1: Moonshot 2 | | 
-6 | Oct 6: Words <br> Oct 8: | |
-7 | Oct 13: Syntax I <br> Oct 15: Moonshot 3  | | 
+3 | Sep 15: Cortical Networks <br> Sep 17: Prepare for Pitch | [Moonshot 1 due](https://docs.google.com/document/d/1IEKt2vV5e6BhMYsWkvUVUSD3IPSGx7yhPumBr1P2xa8/edit?usp=sharing)
+4 | Sep 22: Methods <br> Sep 24: Big Question Pitch| | Exam 1 due
+5 | Sep 29: Sounds & Phonemes<br> Oct 1: Rapid Evaluation I (solutions) | | Moonshot 2 due
+6 | Oct 6: Words <br> Oct 8: Rapid Evaluation II (peer feedback)  | | Moonshot 3 due
+7 | Oct 13: Syntax I <br> Oct 15: | | 
 8 | Oct 20: Syntax II <br> Oct 22: | | Exam 2 due
-9 | Oct 27: Semantics <br> Oct 29: Moonshot 4 | |
-10 | Nov 3:  Acquisition <br> Nov 5:  | |
-11 | Nov 10: Sign Language <br> Nov 12: Moonshot 5 | | 
+9 | Oct 27: Semantics <br> Oct 29: Rapid Evaluation III (expert feedback) | | Moonshot 4 due
+10 | Nov 3:  Acquisition <br> Nov 5: Foundry Phase I (prototype) | | 
+11 | Nov 10: Sign Language <br> Nov 12: | | Moonshot 5 due
 12 | Nov 17: Bilingualism <br> Nov 19:  | | Exam 3 due
 13 | Nov 24: **No Class** <br> Nov 26: **Thanksgiving Break** | | 
-14 | Dec 1: Evolution <br> Dec 3: Poster Feedback   | |
-15 | Dec 8: Cerebellum <br> Dec 10: Poster Session! | | 
+14 | Dec 1: Evolution <br> Dec 3: Poster Feedback   | | Moonshot 6 due
+15 | Dec 8: Cerebellum <br> Dec 10: Poster Session! | | Final Poster due
 16 | Dec 15: Finals Week | | Exam 4 due
 
 ## Policies
