@@ -35,7 +35,7 @@ This course offers an introduction to the brain basis of language. Our goal is t
 
 ### Extra credit
 - **Community engagement:** For each moonshot assignment, earn 5 points by making kind, constructive comments on other teams' blog posts. 
-- **Research bonus:** Earn 10 bonus points for attending (live or later) any MINDCore seminar this semester and writing a [short paper](404.html) on how it connects to what you've learned in class.
+- **Research bonus:** Earn 10 bonus points for attending (live or later) any MINDCore seminar this semester and writing a [short paper](not-yet) on how it connects to what you've learned in class.
 
 ### Getting help
 - **Comment on google docs & slides:** Each week you'll be given links to lecture slides, notes, and assignments (see [Schedule](#schedule)). One way to get help from instructors or classmates is to ask questions right on those documents. 
@@ -50,7 +50,7 @@ Each week we'll do two things (1) explore a particular topic in language the the
 
 
 ## Schedule
-Schedule is subject to change. All lectures will be recorded and posterd here on the schedule a few minutes after each class.
+Schedule is subject to change. All lectures will be recorded and posted here after each class. Links to readings, lecture notes, and other resources will be posted as the week approaches.
 
 Wk  | Lecture | Readings | Resources
   --- | --- | --- | ---
@@ -61,11 +61,11 @@ Wk  | Lecture | Readings | Resources
 5 | Sep 29: Sounds & Phonemes<br> Oct 1: Moonshot 2: Solutions | | Exam 1 due 
 6 | Oct 6: Words <br> Oct 8: Moonshot 3: Moonshot 3: Peer Review  | | Blog 2 due
 7 | Oct 13: Syntax I <br> Oct 15: Moonshot 4: Expert Review | | Blog 3 due
-8 | Oct 20: Syntax II <br> Oct 22: **Rest day**| | Exam 2 due
+8 | Oct 20: Syntax II <br> Oct 22: **Review or rest**| | Exam 2 due
 9 | Oct 27: Semantics <br> Oct 29: Moonshot 5: Prototype | | Moonshot 4 due
 10 | Nov 3:  Acquisition <br> Nov 5:  | | 
 11 | Nov 10: Sign Language <br> Nov 12: Moonshot 6: Poster draft| | Moonshot 5 due
-12 | Nov 17: Bilingualism <br> Nov 19: **Rest day** | | Exam 3 due
+12 | Nov 17: Bilingualism <br> Nov 19: **Review or rest** | | Exam 3 due
 13 | Nov 24: **No Class** <br> Nov 26: **Thanksgiving Break** | | 
 14 | Dec 1: Evolution <br> Dec 3: Poster Feedback   | | Moonshot 6 due
 15 | Dec 8: Cerebellum <br> Dec 10: Poster Session! | | Final Poster due
@@ -94,7 +94,7 @@ C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61%
 > Yes! You can skip the fourth exam and it will be dropped. Your grade will be based on the first three exams.
 
 **I noticed a mistake in the grading of my exam. How do I get this fixed?**
-> We will look at your exam again if you make a formal [re-grade request](https://canvas.upenn.edu/courses/1489351/modules/items/17298855) via Canvas within one week of getting your exam back.
+> We will look at your exam again if you make a formal [re-grade request](not-yet) via Canvas within one week of getting your exam back.
 
 **I missed or failed an exam. What can I do to make it up?**
 > Nothing. We don't allow make-up exams or retakes. However, we drop your lowest exam score, so you can still do well in the class. Just make sure it doesn't happen more than once!
@@ -103,7 +103,7 @@ C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61%
 > Yes, but there is a 1 point per day late penalty.
 
 **I commented on blog posts (or did the research bonus). When will I get my bonus points?**
-> To receive bonus points, you must (1) make a [bonus points declaration](404.html) on Canvas and (2) submit any required supporting materials. Your bonus points will be awarded as soon as you make your declaration, but we will check your supporting materials to confirm these points at the end of the semester.
+> To receive bonus points, you must (1) make a [bonus points declaration](not-yet) on Canvas and (2) submit any required supporting materials. Your bonus points will be awarded as soon as you make your declaration, but we will check your supporting materials to confirm these points at the end of the semester.
 
 **How do I join the lectures live?**
 > I'll send a link just before our usual class time via Campuswire for those who want to join live. I'll pause periodically for questions, and sometimes we will make use of breakout rooms for group work or class activities.
