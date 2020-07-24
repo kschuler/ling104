@@ -43,14 +43,14 @@ This course offers an introduction to the brain basis of language. Our goal is t
 - **Office Hours:** If you prefer chatting with a person, you can join one of us for video Office Hours on Zoom. If our posted hours don't work, email Professor Schuler or Yiran to set up an appointment for another time.
 
 ### Typical week
-Each week we'll do two things (1) explore a particular topic in language the the brain and (2) attempt to make progress on your Moonshot progress. Both things will happen via Zoom.
+Each week we'll do two things (on Zoom): (1) explore a particular topic in language the the brain and (2) attempt to make progress on your Moonshot project. 
 - **Tuesdays** - On Tuesdays, I'll give a short lecture on our topic for the week and we'll usually do an activity (like a brain anatomy lab or learning how to read an academic journal article). 
-- **Thursdays** - On Thursdays, we'll finish up our activity and summarise what we learned. Then, we'll turn to working our group Moonshot projects. Yiran and I will drop in to your breakout rooms to help answer your questions and move your project forward.
+- **Thursdays** - On Thursdays, we'll finish up our activity and summarise what we learned. Then, we'll turn to working on our group Moonshot projects. Yiran and I will drop in to your breakout rooms to help answer your questions and move your project forward.
 - **Fridays** - Friday is deadline day! Usually you'll either have a group blog post or an exam due.
 
 
 ## Schedule
-Schedule is subject to change. All lectures will be recorded and posted here after each class. Links to readings, lecture notes, and other resources will be posted as the week approaches.
+Schedule is subject to change. All lectures will be recorded and posted here after each class. Links to readings, lecture notes, and other resources will be posted here as the week approaches.
 
 Wk  | Lecture | Readings | Resources
   --- | --- | --- | ---
