@@ -7,39 +7,41 @@ title: LING104
 <h3 align="center">Tuesdays & Thursdays <b>Online</b></h3>
 
 [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu) | Instructor <br>
+likes to be called: Dr. Schuler or Professor Schuler<br>
 remote from Philadelphia, PA (Neighborhood: Mt. Airy)<br>
-Office Hours: TBD
-
-[Yiran Chen](mailto:cheny39@sas.upenn.edu) | Teaching Assistant <br>
 Office Hours TBD
 
+[Yiran Chen](mailto:cheny39@sas.upenn.edu) | Teaching Assistant <br>
+likes to be called: Yiran
+Office Hours TBD
 
-## Getting help
+## Welcome
+Welcome to LING104, an introduction to Language and the Brain. This semester, Language and the Brain will be **fully remote**. I know you probably have lots of questions about how this will work, so please ask! The best way to ask questions is to join the class discussion board (sign yourself up with access code: 8248). You can ask question about anything you like, as early as you like (if you are reading this, the discussion board it open for questions!) — you can even do so anonymously. Looking forward to having you in class!
 
-- **Comment on google docs & slides:** Each week you'll be given links to lecture slides, notes, and assignments (see [Schedule](#schedule)). One way to get help from instructors or classmates is to ask questions right on the documents. 
+### Overview
 
-- **Piazza:** The best way to get help anytime is to ask a question on the [Piazza discussion board](https://piazza.com/upenn/fall2020/ling104). Instructors will typically respond to questions within 24 hours.
-
-- **Office Hours:** If you prefer chatting with a person, you can join one of us for video Office Hours on Zoom. If our posted hours don't work, email Katie or Yiran to set up an appointment for another time.
-
-
-## Overview
-
-### Description
-This course offers an introduction to the brain basis of language. Its primary goal is to introduce students to the study of the brain and language by combining basic concepts from linguistics, psychology, cognitive science, and neuroscience. We will consider, through lectures and readings, a number of questions: What areas of the brain underlie language processing and acquisition? What are the fundamental functions of these brain areas and how do these functions overlap with other cognitive processes? How is language impacted when one of these areas is damaged? And what are the methods and approaches researchers use to examine these questions? This is an introductory course and no specific background is assumed or required.
+This course offers an introduction to the brain basis of language. Our goal is to introduce you to the study of the brain and language by combining basic concepts from linguistics, psychology, cognitive science, and neuroscience. Through lectures, readings, and group work, we'll consider a number of questions: What areas of the brain underlie language processing and acquisition? What are the fundamental functions of these brain areas and how do these functions overlap with other cognitive processes? How is language impacted when one of these areas is damaged? What are the methods and approaches researchers use to examine these questions? This is an introductory course and no specific background is assumed or required.
 
 ### Materials
 
-- **[Course website](index.html)** (you are here) for schedule, policies, and links to all assigned materials and a **[Canvas site](https://canvas.upenn.edu/courses/1530046)** for announcements and grade related things.
+- **[Course website](index.html)** (you are here) for schedule, policies, and links to all recorded lectures, assignments, and lecture notes.
+- **[Canvas site](https://canvas.upenn.edu/courses/1530046)** for announcements and grade related things.
 - **[Class blog](https://languageandthebrain.org)** for group projects
-- **[Piazza](https://piazza.com/upenn/fall2020/ling104)** for online discussion
+- **[Campuswire](https://campuswire.com/p/GD0DDA8D5)** for online discussion
 
 ### Evaluation
 - **Exams (75%)** - There are four take-home exams, but the lowest exam score is dropped.
 - **Moonshot group project (25%)** -  You'll work in groups of 3 to find a solution to a big question in language and the brain. Your group will write 6 blog posts on your progress (25 points each) and present a poster (virtually!) on the final day of class (100 points).
 
 ### Extra Credit
--  **Community engagement:** For each moonshot assignment, earn 5 points by making kind, constructive comments on other teams' blog posts. 
+- **Community engagement:** For each moonshot assignment, earn 5 points by making kind, constructive comments on other teams' blog posts. 
+- **Research bonus:** Earn 10 bonus points for attending (live or later) any MINDCore seminar this semester and writing a short paper on what you have learned and how it connects to class.
+
+
+## Getting help
+- **Comment on google docs & slides:** Each week you'll be given links to lecture slides, notes, and assignments (see [Schedule](#schedule)). One way to get help from instructors or classmates is to ask questions right on the documents. 
+- **Campuswire:** The best way to get help anytime is to ask a question on the [Campuswire discussion board](https://campuswire.com/p/GD0DDA8D5). Instructors will typically respond to questions within 24 hours. You'll often get a response from a classmate even sooner!
+- **Office Hours:** If you prefer chatting with a person, you can join one of us for video Office Hours on Zoom. If our posted hours don't work, email Professor Schuler or Yiran to set up an appointment for another time.
 
 ## Schedule
 Schedule is subject to change. All lectures will be recorded and [posted on Panopto](404.html) a few minutes after each class.
