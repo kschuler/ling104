@@ -106,12 +106,13 @@ C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61%
 > To receive bonus points, you must (1) make a [bonus points declaration](not-yet) on Canvas and (2) submit any required supporting materials. Your bonus points will be awarded as soon as you make your declaration, but we will check your supporting materials to confirm these points at the end of the semester.
 
 **How do I join the lectures live?**
-> I'll send a link just before our usual class time via Campuswire for those who want to join live. I'll pause periodically for questions, and sometimes we will make use of breakout rooms for group work or class activities.
+> I'll send a Zoom link just before our usual class time via Campuswire for those who want to join live. I'll pause periodically for questions, and sometimes we will make use of breakout rooms for group work or class activities.
 
-**Do I have to turn on my camera or microphone?** Nope. I understand that there are many circumstances beyond our control at the moment. If you prefer to listen with your camera and/or microphone off, you are welcome to do that. I'll never ask you to turn on your camera or microphone, and you never have to explan why. 
+**Do I have to turn on my camera or microphone?** 
+> Nope. I understand that there are many circumstances beyond our control at the moment. If you prefer to listen with your camera and/or microphone off, you are welcome to do that. I'll never ask you to turn on your camera or microphone, and you never have to explan why. 
 
 **I'm in a different time zone, will I miss anything?**
-> No, definitely not! The lectures will be recorded so you can watch them any time you like. Class discussions will take place on Piazza, so you can read through quesitons and discussions any time, and also add your own comments and questions whenever you can.
+> No, definitely not! The lectures will be recorded so you can watch them any time you like. Class discussions will take place on Campuswire, so you can read through quesitons and discussions any time, and also add your own comments and questions whenever you can.
 
 
 <!--stackedit_data:
