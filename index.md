@@ -20,22 +20,22 @@ Welcome to LING104, an introduction to **Language and the Brain**! Due to the gl
 
 ### Overview
 
-This course offers an introduction to the brain basis of language. Our goal is to introduce you to the study of the brain and language by combining basic concepts from linguistics, psychology, cognitive science, and neuroscience. Through lectures, readings, and group work, we'll consider a number of questions: What areas of the brain underlie language processing and acquisition? What are the fundamental functions of these brain areas and how do these functions overlap with other cognitive processes? How is language impacted when one of these areas is damaged? What are the methods and approaches researchers use to examine these questions? This is an introductory course and no specific background is assumed or required. Freshman welcome!
+This course offers an introduction to the brain basis of language. Our goal is to introduce you to the study of the brain and language by combining basic concepts from linguistics, psychology, cognitive science, and neuroscience. Through lectures, readings, and group work, we'll consider a number of questions: What areas of the brain underlie language processing and acquisition? What are the fundamental functions of these brain areas and how do these functions overlap with other cognitive processes? How is language impacted when one of these areas is damaged? What are the methods and approaches researchers use to examine these questions? This is an introductory course and no specific background is assumed or required. **Freshman are very welcome!**
 
 ### Materials
 
-- **[Course website](index.html)** (you are here) for schedule, policies, and links to all recorded lectures, assignments, and lecture notes.
-- **[Canvas site](https://canvas.upenn.edu/courses/1530046)** for announcements and grade related things.
+- **[Course website](index.html)** (you are here) for schedule, policies, and links to all course materials.
+- **[Canvas site](https://canvas.upenn.edu/courses/1530046)** for grade related things.
 - **[Class blog](https://languageandthebrain.org)** for group projects
-- **[Campuswire](https://campuswire.com/p/GD0DDA8D5)** for online discussion
+- **[Campuswire](https://campuswire.com/p/GD0DDA8D5)** for announcements and online discussion
 
 ### Evaluation
 - **Exams (75%)** - There are four take-home exams, but the lowest exam score is dropped.
-- **Moonshot group project (25%)** -  You'll work in groups of 3 to find a solution to a big question in language and the brain. Your group will pitch your bid idea (25 points), write 6 blog posts on your progress (25 points each), and present a poster (virtually!) on the final day of class (75 points).
+- **Moonshot group project (25%)** -  You'll work in groups of 3 to find a solution to a big question in language and the brain. Your group will pitch your big idea (25 points), write 6 blog posts on your progress (25 points each), and present a poster (virtually!) on the final day of class (75 points).
 
 ### Extra Credit
 - **Community engagement:** For each moonshot assignment, earn 5 points by making kind, constructive comments on other teams' blog posts. 
-- **Research bonus:** Earn 10 bonus points for attending (live or later) any MINDCore seminar this semester and writing a [short paper](404.html) on what you have learned and how it connects to class.
+- **Research bonus:** Earn 10 bonus points for attending (live or later) any MINDCore seminar this semester and writing a [short paper](404.html) on how it connects to what you've learned in class.
 
 ### Getting help
 - **Comment on google docs & slides:** Each week you'll be given links to lecture slides, notes, and assignments (see [Schedule](#schedule)). One way to get help from instructors or classmates is to ask questions right on those documents. 
