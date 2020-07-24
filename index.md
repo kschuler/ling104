@@ -31,7 +31,7 @@ This course offers an introduction to the brain basis of language. Our goal is t
 
 ### Evaluation
 - **Exams (75%)** - There are four take-home exams, but the lowest exam score is dropped.
-- **Moonshot group project (25%)** -  You'll work in groups of 3 to find a solution to a big question in language and the brain. Your group will pitch your big idea (25 points), write 6 blog posts on your progress (25 points each), and present a poster (virtually!) on the final day of class (75 points).
+- **Moonshot group project (25%)** -  You'll work in groups of 3 to find a solution to a big question in language and the brain. Your group will write 6 blog posts on your progress (25 points each), and present a poster (virtually!) on the final day of class (100 points).
 
 ### Extra Credit
 - **Community engagement:** For each moonshot assignment, earn 5 points by making kind, constructive comments on other teams' blog posts. 
@@ -48,7 +48,7 @@ Schedule is subject to change. All lectures will be recorded and [posted on Pano
 Wk  | Lecture | Readings | Resources
   --- | --- | --- | ---
 1 | Sep 1: Course Overview <br> Sep 3: CNS Overview| | [Group Interest Survey]() <br>[Notes on the CNS](https://docs.google.com/document/d/1PRnxbS35voE_a0O-zt9b5AgpzA90kzHGQmPOjIeMIoo)
-2 | Sep 8: Neurons <br> Sep 10: Moonshot Project Kickoff | | [Notes on Neurons](https://docs.google.com/document/d/10m2TaXG4dH76JJWaoWzONSnLYD6Opt5RjLd1bbx04pE/edit?usp=sharing)
+2 | Sep 8: Neurons <br> Sep 10: [Moonshot Project Kickoff](https://docs.google.com/document/d/1R1Kg8u-a-HrHxRMTSBi6Wd1KjRrRTWkI7H1oB5bquEY/edit) | | [Notes on Neurons](https://docs.google.com/document/d/10m2TaXG4dH76JJWaoWzONSnLYD6Opt5RjLd1bbx04pE/edit?usp=sharing)
 3 | Sep 15: Cortical Networks <br> Sep 17: Moonshot 1| | 
 4 | Sep 22: Methods <br> Sep 24: BQP| | Exam 1 due
 5 | Sep 29: Sounds & Phonemes<br> Oct 1: Moonshot 2 | | 
