@@ -50,22 +50,22 @@ Each week we'll do two things (1) explore a particular topic in language the the
 
 
 ## Schedule
-Schedule is subject to change. All lectures will be recorded and [posted on Panopto](404.html) a few minutes after each class.
+Schedule is subject to change. All lectures will be recorded and posterd here on the schedule a few minutes after each class.
 
 Wk  | Lecture | Readings | Resources
   --- | --- | --- | ---
-1 | Sep 1: Course Overview <br> Sep 3: CNS Overview| | [Group Interest Survey]() <br>[Notes on the CNS](https://docs.google.com/document/d/1PRnxbS35voE_a0O-zt9b5AgpzA90kzHGQmPOjIeMIoo)
+1 | Sep 1: Course Overview <br> Sep 3: CNS Overview| | [Group Interest Survey](not-yet) <br>[Notes on the CNS](https://docs.google.com/document/d/1PRnxbS35voE_a0O-zt9b5AgpzA90kzHGQmPOjIeMIoo)
 2 | Sep 8: Neurons <br> Sep 10: [Moonshot Project Kickoff](https://docs.google.com/document/d/1R1Kg8u-a-HrHxRMTSBi6Wd1KjRrRTWkI7H1oB5bquEY/edit) | | [Notes on Neurons](https://docs.google.com/document/d/10m2TaXG4dH76JJWaoWzONSnLYD6Opt5RjLd1bbx04pE/edit?usp=sharing)
-3 | Sep 15: Cortical Networks <br> Sep 17: Prepare for Pitch | [Moonshot 1 due](https://docs.google.com/document/d/1IEKt2vV5e6BhMYsWkvUVUSD3IPSGx7yhPumBr1P2xa8/edit?usp=sharing)
-4 | Sep 22: Methods <br> Sep 24: Big Question Pitch| | Exam 1 due
-5 | Sep 29: Sounds & Phonemes<br> Oct 1: Rapid Evaluation I (solutions) | | Moonshot 2 due
-6 | Oct 6: Words <br> Oct 8: Rapid Evaluation II (peer feedback)  | | Moonshot 3 due
-7 | Oct 13: Syntax I <br> Oct 15: | | 
-8 | Oct 20: Syntax II <br> Oct 22: | | Exam 2 due
-9 | Oct 27: Semantics <br> Oct 29: Rapid Evaluation III (expert feedback) | | Moonshot 4 due
-10 | Nov 3:  Acquisition <br> Nov 5: Foundry Phase I (prototype) | | 
-11 | Nov 10: Sign Language <br> Nov 12: | | Moonshot 5 due
-12 | Nov 17: Bilingualism <br> Nov 19:  | | Exam 3 due
+3 | Sep 15: Cortical Networks <br> Sep 17: [Moonshot 1: Pitch](https://docs.google.com/document/d/1IEKt2vV5e6BhMYsWkvUVUSD3IPSGx7yhPumBr1P2xa8/edit?usp=sharing) | |
+4 | Sep 22: Methods <br> Sep 24: Big Question Pitch| | Blog 1 due
+5 | Sep 29: Sounds & Phonemes<br> Oct 1: Moonshot 2: Solutions | | Exam 1 due 
+6 | Oct 6: Words <br> Oct 8: Moonshot 3: Moonshot 3: Peer Review  | | Blog 2 due
+7 | Oct 13: Syntax I <br> Oct 15: Moonshot 4: Expert Review | | Blog 3 due
+8 | Oct 20: Syntax II <br> Oct 22: **Rest day**| | Exam 2 due
+9 | Oct 27: Semantics <br> Oct 29: Moonshot 5: Prototype | | Moonshot 4 due
+10 | Nov 3:  Acquisition <br> Nov 5:  | | 
+11 | Nov 10: Sign Language <br> Nov 12: Moonshot 6: Poster draft| | Moonshot 5 due
+12 | Nov 17: Bilingualism <br> Nov 19: **Rest day** | | Exam 3 due
 13 | Nov 24: **No Class** <br> Nov 26: **Thanksgiving Break** | | 
 14 | Dec 1: Evolution <br> Dec 3: Poster Feedback   | | Moonshot 6 due
 15 | Dec 8: Cerebellum <br> Dec 10: Poster Session! | | Final Poster due
