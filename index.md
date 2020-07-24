@@ -26,7 +26,7 @@ This course offers an introduction to the brain basis of language. Our goal is t
 
 - **[Course website](index.html)** (you are here) for schedule, policies, and links to all course materials.
 - **[Canvas site](https://canvas.upenn.edu/courses/1530046)** for grade related things.
-- **[Class blog](https://languageandthebrain.org)** for group projects
+- **[Class blog](http://languageandthebrain.org/)** for group projects
 - **[Campuswire](https://campuswire.com/p/GD0DDA8D5)** for announcements and online discussion
 
 ### Evaluation
@@ -43,7 +43,7 @@ This course offers an introduction to the brain basis of language. Our goal is t
 - **Office Hours:** If you prefer chatting with a person, you can join one of us for video Office Hours on Zoom. If our posted hours don't work, email Professor Schuler or Yiran to set up an appointment for another time.
 
 ### Typical week
-Each week we'll do two things (1) explore a particular topic in language the the brain and (2) attempt to make progress on your Moonshot progress.
+Each week we'll do two things (1) explore a particular topic in language the the brain and (2) attempt to make progress on your Moonshot progress. Both things will happen via Zoom.
 - **Tuesdays** - On Tuesdays, I'll give a short lecture on our topic for the week and we'll usually do an activity (like a brain anatomy lab or learning how to read an academic journal article). 
 - **Thursdays** - On Thursdays, we'll finish up our activity and summarise what we learned. Then, we'll turn to working our group Moonshot projects. Yiran and I will drop in to your breakout rooms to help answer your questions and move your project forward.
 - **Fridays** - Friday is deadline day! Usually you'll either have a group blog post or an exam due.
