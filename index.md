@@ -16,7 +16,7 @@ likes to be called: Yiran<br>
 Office Hours TBD
 
 ## Welcome
-Welcome to LING104, an introduction to **Language and the Brain**. Due to the global pandemic, LING104 will be **fully remote** this semester. I've updated the syllabus below, but I know you probably have lots of questions about this -- please ask! The best way to ask questions is to join the [class discussion board](https://campuswire.com/p/GD0DDA8D5) (sign yourself up with access code: **8248**). You can ask question about anything you like, as early as you like -- if you are reading this, the discussion board it open for questions!). You can even do so anonymously. Looking forward to having you in class!
+Welcome to LING104, an introduction to **Language and the Brain**! Due to the global pandemic, LING104 will be **fully remote** this semester. I know you will have lots of questions about how this will work, so please ask! The best way to ask questions is to join the [class discussion board](https://campuswire.com/p/GD0DDA8D5) (sign yourself up with access code: **8248**). You are welcome to join and ask questions here even if you are just considering the class. You can ask question about anything you like, as early as you like -- if you are reading this, the discussion board it open for questions. You can even do so anonymously. Looking forward to having you in class!
 
 ### Overview
 
