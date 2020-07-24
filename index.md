@@ -39,7 +39,7 @@ This course offers an introduction to the brain basis of language. Our goal is t
 
 ### Getting help
 - **Comment on google docs & slides:** Each week you'll be given links to lecture slides, notes, and assignments (see [Schedule](#schedule)). One way to get help from instructors or classmates is to ask questions right on those documents. 
-- **Campuswire:** The best way to get help anytime is to ask a question on the [Campuswire discussion board](https://campuswire.com/p/GD0DDA8D5). Instructors will typically respond to questions within 24 hours. You'll often get a response from a classmate even sooner!
+- **Campuswire:** The best way to get help anytime is to ask a question on the [Campuswire discussion board](https://campuswire.com/p/GD0DDA8D5). Instructors will typically respond within 24 hours. You'll often get a response from a classmate even sooner!
 - **Office Hours:** If you prefer chatting with a person, you can join one of us for video Office Hours on Zoom. If our posted hours don't work, email Professor Schuler or Yiran to set up an appointment for another time.
 
 ## Schedule
@@ -67,7 +67,7 @@ Wk  | Lecture | Readings | Resources
 ## Policies
 - **Attendance**: There is no formal attendance policy, but participation is highly correlated with class performance.
 - **Rescheduling or make-up exams**: Because we drop your lowest exam, we do not offer retakes or make-up exams. But please contact us if something extreme happens - a family or medical emergency, for example - and we can discuss some options provided you have documentation.
-- **Late assignments**: Late blog posts will be accepted with a 1 point per day late penalty. Exams have a 3 day grace period. meaning you can turn your exam in up to 3 days late with no penalty, and a 25 point per day late penalty after that.
+- **Late assignments**: Late blog posts will be accepted with a 1 point per day late penalty. Exams have a 3 day grace period (meaning you can turn your exam in up to 3 days late with no penalty) and a 25 point per day late penalty after that.
 - **Re-grade requests**: If you notice a grading error, we'd be happy to look at your exam again. To request a re-grade, please fill out the re-grade request form *within one week of receiving your graded exam or assignment*. We want to be fair to everyone, so if you ask about grading in person or via email, you'll be directed to make a formal request via the regrade request form.
 - **Accommodations and non-discrimination**: We are happy to provide accommodations to anyone with documentation from Student Disability Services and to make alternate arrangements when class conflicts with a religious holiday. Please notify Professor Schuler or Yiran as soon as possible to make these arrangements.
 - **Academic Integrity**: We will follow the rules of the University and the [Code of Academic Integrity](https://catalog.upenn.edu/pennbook/code-of-academic-integrity/).  It is your responsibility to be familiar with these policies.
