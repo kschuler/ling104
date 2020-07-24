@@ -20,7 +20,7 @@ Welcome to LING104, an introduction to **Language and the Brain**! Due to the gl
 
 ### Overview
 
-This course offers an introduction to the brain basis of language. Our goal is to introduce you to the study of the brain and language by combining basic concepts from linguistics, psychology, cognitive science, and neuroscience. Through lectures, readings, and group work, we'll consider a number of questions: What areas of the brain underlie language processing and acquisition? What are the fundamental functions of these brain areas and how do these functions overlap with other cognitive processes? How is language impacted when one of these areas is damaged? What are the methods and approaches researchers use to examine these questions? This is an introductory course and no specific background is assumed or required. **Freshman are very welcome!**
+This course offers an introduction to the brain basis of language. Our goal is to introduce you to the study of the brain and language by combining basic concepts from linguistics, psychology, cognitive science, and neuroscience. Through lectures, readings, and group work, we'll consider a number of questions: What areas of the brain underlie language processing and acquisition? What are the fundamental functions of these brain areas and how do these functions overlap with other cognitive processes? How is language impacted when one of these areas is damaged? What are the methods and approaches researchers use to examine these questions? This is an introductory course and no specific background is assumed or required. **Freshmen are very welcome!**
 
 ### Materials
 
