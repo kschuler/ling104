@@ -63,7 +63,7 @@ Wk  | Lecture | Readings | Resources
 7 | Oct 13: Syntax I <br> Oct 15: Moonshot 4: Expert Review | | Blog 3 due
 8 | Oct 20: Syntax II <br> Oct 22: **Review or rest**| | Exam 2 due
 9 | Oct 27: Semantics <br> Oct 29: Moonshot 5: Prototype | | Blog 4 due
-10 | Nov 3:  Acquisition <br> Nov 5:  | | 
+10 | Nov 3:  Acquisition <br> Nov 5: Article Summary Challenge | | Article Summary (due Nov 5)
 11 | Nov 10: Sign Language <br> Nov 12: Moonshot 6: Poster draft| | Blog 5 due
 12 | Nov 17: Bilingualism <br> Nov 19: **Review or rest** | | Exam 3 due
 13 | Nov 24: **No Class** <br> Nov 26: **Thanksgiving Break** | | 
