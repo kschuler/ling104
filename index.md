@@ -28,6 +28,7 @@ This course offers an introduction to the brain basis of language. Our goal is t
 - **[Canvas site](https://canvas.upenn.edu/courses/1530046)** for grade related things.
 - **[Class blog](http://languageandthebrain.org/)** for group projects
 - **[Campuswire](https://campuswire.com/p/GD0DDA8D5)** for announcements and online discussion
+- **Readings** will come from an open access textbook [Language in our Brain](https://direct-mit-edu.proxy.library.upenn.edu/books/book/3653/Language-in-Our-BrainThe-Origins-of-a-Uniquely), by Dr. Angela Friederici. Links to assigned chapters will be posted here on the [Schedule](#schedule).
 
 ### Evaluation
 - **Exams (75%)** - There are four take-home exams, but the lowest exam score is dropped.
