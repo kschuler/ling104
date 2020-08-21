@@ -16,7 +16,7 @@ likes to be called: Yiran<br>
 Office Hours TBD
 
 [Jonathan Scotto](mailto:jscotto@sas.upenn.edu) | **Teaching Assistant** <br>
-likes to be called: Johnathan<br>
+likes to be called: Jonathan<br>
 Office Hours TBD
 
 ## Welcome
