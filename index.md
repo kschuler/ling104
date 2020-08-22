@@ -61,8 +61,8 @@ Wk  | Lecture | Readings | Resources
   --- | --- | --- | ---
 1 | Sep 1: Course Overview <br> Sep 3: CNS Overview| | [Group Interest Survey](https://docs.google.com/forms/d/e/1FAIpQLSdU4Y-ZM0auaqjuSZLJ6Hw4xU5kR4_Wk7S1XUuww1IiI6QxPQ/viewform?usp=sf_link) <br>[Notes on the CNS](https://docs.google.com/document/d/1PRnxbS35voE_a0O-zt9b5AgpzA90kzHGQmPOjIeMIoo)
 2 | Sep 8: Neurons <br> Sep 10: [Moonshot Project Kickoff](https://public.3.basecamp.com/p/QFtKvwYFDHendp8jxeMFnpca) | | [Notes on Neurons](https://docs.google.com/document/d/10m2TaXG4dH76JJWaoWzONSnLYD6Opt5RjLd1bbx04pE/edit?usp=sharing)<br>[Blog Practice](https://canvas.upenn.edu/courses/1530046/assignments/8162693?module_item_id=18630336)
-3 | Sep 15: Cortical Networks <br> Sep 17: [Moonshot 1: Pitch](https://public.3.basecamp.com/p/cCVwCwUNQKxSiFcYNPSNWQ1k) | |
-4 | Sep 22: Methods <br> Sep 24: Big Question Pitch| | [Blog 1 due](https://canvas.upenn.edu/courses/1530046/assignments/8162711)
+3 | Sep 15: Methods <br> Sep 17: [Moonshot 1: Pitch](https://public.3.basecamp.com/p/cCVwCwUNQKxSiFcYNPSNWQ1k) | |
+4 | Sep 22: Cortical Networks <br> Sep 24: Big Question Pitch| | [Blog 1 due](https://canvas.upenn.edu/courses/1530046/assignments/8162711)
 5 | Sep 29: Sounds & Phonemes<br> Oct 1: Moonshot 2: Solutions | | [Exam 1 due](https://canvas.upenn.edu/courses/1530046/assignments/8161724) 
 6 | Oct 6: Words <br> Oct 8: Moonshot 3: Moonshot 3: Peer Review  | | [Blog 2 due](https://canvas.upenn.edu/courses/1530046/assignments/8162722)
 7 | Oct 13: Syntax I <br> Oct 15: Moonshot 4: Expert Review | | [Blog 3 due](https://canvas.upenn.edu/courses/1530046/assignments/8162723)
