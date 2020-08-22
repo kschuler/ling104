@@ -71,9 +71,9 @@ Wk  | Lecture | Readings | Resources
 10 | Nov 3:  Acquisition <br> Nov 5: Article Summary Challenge | | Article Summary (due Nov 5)
 11 | Nov 10: Sign Language <br> Nov 12: Moonshot 6: Poster draft| | [Blog 5 due](https://canvas.upenn.edu/courses/1530046/assignments/8162742)
 12 | Nov 17: Bilingualism <br> Nov 19: **Review or rest** | | [Exam 3 due](https://canvas.upenn.edu/courses/1530046/assignments/8162040)
-13 | Nov 24: **No Class** <br> Nov 26: **Thanksgiving Break** | | 
-14 | Dec 1: Evolution <br> Dec 3: Poster Feedback   | | [Blog post 6 due](https://canvas.upenn.edu/courses/1530046/assignments/8162745) <br> Peer evaluation due
-15 | Dec 8: Cerebellum <br> Dec 10: Poster Session! | | Final Poster due
+13 | Nov 24: Evolution <br> Nov 26: **Thanksgiving Break** | | 
+14 | Dec 1: Cerebellum <br> Dec 3: Poster Feedback   | | [Blog post 6 due](https://canvas.upenn.edu/courses/1530046/assignments/8162745) <br> Peer evaluation due
+15 | Dec 8: Poster Session| | Final Poster due
 16 | Dec 15: Finals Week | | [Exam 4 due](https://canvas.upenn.edu/courses/1530046/assignments/8162042)
 
 ## Policies
