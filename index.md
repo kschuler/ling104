@@ -55,7 +55,7 @@ Each week we'll do two things (on Zoom): (1) explore a particular topic in langu
 
 
 ## Schedule
-Schedule is subject to change. Where you see {Slide, Zoom, Act}, this refers to the lecture slides, Zoom recording, and in-class activity for that day. 
+Schedule is subject to change. Click on the day's topic (lecture column) to following along that day (includes links to lecture slides, zoom recordings, and in-class activities). 
 
 Wk  | Lecture | Readings | Resources
   --- | --- | --- | ---
