@@ -4,7 +4,9 @@ title: LING104
 ---
 
 <h2 align="center">Fall 2020 Syllabus</h2>
-<h3 align="center">Tuesdays & Thursdays 10:30am-12pm <b>Online</b></h3>
+<h3 align="center">Tuesdays & Thursdays 10:30am-12pm <b>Online</b></h3><br>
+<h3 align="center"><a href="https://upenn.zoom.us/j/91009455786?pwd=T1NEQm8rUnlaOGRoMnlKUitVUDg2QT09">Link to Live Lecture on Zoom</a>
+</h3>
 
 [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu) | **Instructor** <br>
 likes to be called: Professor Schuler or Dr. Schuler<br>
