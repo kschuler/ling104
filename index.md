@@ -39,6 +39,7 @@ This course offers an introduction to the brain basis of language. Our goal is t
 ### Evaluation
 - **Exams (60%)** - There are four take-home exams, but the lowest exam score is dropped.
 - **Moonshot group project (25%)** -  You'll work in groups of 3 to find a solution to a big question in language and the brain. Your group will write 6 blog posts on your progress (25 points each), and present a poster (virtually!) on the final day of class (100 points).
+  - Your grade will then be adjusted based on two peer evaluations on your contribution to the group.
 - **Article Summary (15%)** - You'll be asked to summarize an academic journal article (50 points), get feedback on your summary and give feedback to others (50 points), and then be invited to revise your summary (50 points). 
 ### Extra credit
 - **Community engagement:** For each moonshot assignment, earn 5 points by making kind, constructive comments on other teams' blog posts. 
@@ -69,12 +70,12 @@ Wk  | Lecture | Readings | Resources
 6 | Oct 6: Words <br> Oct 8: Moonshot 3: Moonshot 3: Peer Review  | | [Blog 2 due](https://canvas.upenn.edu/courses/1530046/assignments/8162722)
 7 | Oct 13: Syntax I <br> Oct 15: Moonshot 4: Expert Review | | [Blog 3 due](https://canvas.upenn.edu/courses/1530046/assignments/8162723)
 8 | Oct 20: Semantics <br> Oct 22: **Review or rest**| | [Exam 2 due](https://canvas.upenn.edu/courses/1530046/assignments/8162038)
-9 | Oct 27: Acquisition I<br> Oct 29: Moonshot 5: Prototype | | [Blog 4 due](https://canvas.upenn.edu/courses/1530046/assignments/8162726)
+9 | Oct 27: Acquisition I<br> Oct 29: Moonshot 5: Prototype | | Peer evaluation 1 due<br>[Blog 4 due](https://canvas.upenn.edu/courses/1530046/assignments/8162726)
 10 | Nov 3:  Acquisition II <br> Nov 5: Article Summary Challenge | | Article Summary (due Nov 5)
 11 | Nov 10: Sign Language <br> Nov 12: Moonshot 6: Poster draft| | [Blog 5 due](https://canvas.upenn.edu/courses/1530046/assignments/8162742)
 12 | Nov 17: Bilingualism <br> Nov 19: **Review or rest** | | [Exam 3 due](https://canvas.upenn.edu/courses/1530046/assignments/8162040)
 13 | Nov 24: Evolution <br> Nov 26: **Thanksgiving Break** | | 
-14 | Dec 1: Cerebellum <br> Dec 3: Poster Feedback   | | [Blog post 6 due](https://canvas.upenn.edu/courses/1530046/assignments/8162745) <br> Peer evaluation due
+14 | Dec 1: Cerebellum <br> Dec 3: Poster Feedback   | | Peer evaluation 2 due<br>[Blog post 6 due](https://canvas.upenn.edu/courses/1530046/assignments/8162745) 
 15 | Dec 8: Poster Session| | Final Poster due
 16 | Dec 15: Finals Week | | [Exam 4 due](https://canvas.upenn.edu/courses/1530046/assignments/8162042)
 
