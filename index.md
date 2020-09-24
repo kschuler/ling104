@@ -15,7 +15,7 @@ Office Hours by appointment
 
 [Yiran Chen](mailto:cheny39@sas.upenn.edu) | **Teaching Assistant** <br>
 likes to be called: Yiran<br>
-Office Hours Tue 2-3 EST
+Office Hours Tue 2-3 EST [via Zoom](https://upenn.zoom.us/j/93871344469?pwd=ZzI5eE9NMFNIS0pRUGxSV3JkN0gvdz09)
 
 [Jonathan Scotto](mailto:jscotto@sas.upenn.edu) | **Teaching Assistant** <br>
 likes to be called: Jonathan<br>
