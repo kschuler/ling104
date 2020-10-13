@@ -73,7 +73,7 @@ Wk  | Lecture | Readings | Resources
 7 | Oct 13: [Syntax](https://public.3.basecamp.com/p/EA6ajvVEQCEYz8HAWtXy4Ety) <br> Oct 15: Moonshot 4: Expert Review | [Fedorenko & Blank 2020](https://app.perusall.com/courses/ling-104-001-2020c-intro-to-language-and-the-brain/fedorenko-and-blank-2020-broca-s-area-is-not-a-natural-kind?assignmentId=j4vEwPR6Cnxs6gbnQ&part=1)| [Blog 3 due](https://canvas.upenn.edu/courses/1530046/assignments/8162723)
 8 | Oct 20: Semantics <br> Oct 22: **Review or rest**| | [Exam 2 due](https://canvas.upenn.edu/courses/1530046/assignments/8162038)
 9 | Oct 27: Acquisition I<br> Oct 29: Moonshot 5: Prototype | | Peer evaluation 1 due<br>[Blog 4 due](https://canvas.upenn.edu/courses/1530046/assignments/8162726)
-10 | ~Nov 3:  Acquisition II~ **No class, Vote** <br> Nov 5: Article Summary Challenge | | Article Summary (due Nov 5)
+10 | ~~Nov 3:  Acquisition II~~ **No class, Vote** <br> Nov 5: Article Summary Challenge | | Article Summary (due Nov 5)
 11 | Nov 10: Sign Language <br> Nov 12: Moonshot 6: Poster draft| | [Blog 5 due](https://canvas.upenn.edu/courses/1530046/assignments/8162742)
 12 | Nov 17: Bilingualism <br> Nov 19: **Review or rest** | | [Exam 3 due](https://canvas.upenn.edu/courses/1530046/assignments/8162040)
 13 | Nov 24: Evolution <br> Nov 26: **Thanksgiving Break** | | 
