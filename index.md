@@ -5,8 +5,9 @@ title: LING104
 
 <h2 align="center">Fall 2020 Syllabus</h2>
 <h3 align="center">Tuesdays & Thursdays 10:30am-12pm <b>Online</b></h3>
-<h3 align="center"><a href="https://upenn.zoom.us/j/91009455786?pwd=T1NEQm8rUnlaOGRoMnlKUitVUDg2QT09">**link to live lecture on zoom**</a>
-</h3>
+<!-- <h3 align="center"><a href="https://upenn.zoom.us/j/91009455786?pwd=T1NEQm8rUnlaOGRoMnlKUitVUDg2QT09">**link to live lecture on zoom**</a>
+</h3> -->
+<h3 align="center">**no class today, rest day!**</h3> 
 <h3 align="center"><a href="resources/ling104-fall2020-exam2.pdf">Exam 2 is due Friday, Oct 23</a>
 </h3><br>
 
