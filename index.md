@@ -10,8 +10,8 @@ title: LING104
 <!-- <h3 align="center">no class today, rest day!</h3> -->
 <!--<h3 align="center"><a href="resources/ling104-fall2020-exam2.pdf">Exam 2 is due Friday, Oct 23</a>
 </h3><br> -->
-<!--<h3 align="center"><a href="https://canvas.upenn.edu/courses/1530046/quizzes/2425883">Article Summary is due Wednesday, Nov 4 at midnight EST!</a>
-</h3><br> -->
+<h3 align="center"><a href="https://canvas.upenn.edu/courses/1530046/quizzes/2425883">Article summary is due Wednesday, Nov 4 at midnight EST!</a>
+</h3><br>
 
 [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu) | **Instructor** <br>
 likes to be called: Professor Schuler or Dr. Schuler<br>
