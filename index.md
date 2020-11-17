@@ -9,7 +9,7 @@ title: LING104
 </h3> -->
 <h3 align="center">**Class is cancelled today!**</a>
 </h3>
-<h3 align="center"><a href="resources/ling104-fall2020-exam2.pdf">Exam 3 is cancelled!</a>
+<h3 align="center"><a href="">Exam 3 is cancelled!</a>
 </h3><br>
 
 [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu) | **Instructor** <br>
