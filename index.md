@@ -5,7 +5,9 @@ title: LING104
 
 <h2 align="center">Fall 2020 Syllabus</h2>
 <h3 align="center">Tuesdays & Thursdays 10:30am-12pm <b>Online</b></h3>
-<h3 align="center"><a href="https://upenn.zoom.us/j/91009455786?pwd=T1NEQm8rUnlaOGRoMnlKUitVUDg2QT09">**link to live lecture on zoom**</a>
+<!--<h3 align="center"><a href="https://upenn.zoom.us/j/91009455786?pwd=T1NEQm8rUnlaOGRoMnlKUitVUDg2QT09">**link to live lecture on zoom**</a>
+</h3> -->
+<h3 align="center">**Class is cancelled today!**</a>
 </h3>
 <h3 align="center"><a href="resources/ling104-fall2020-exam2.pdf">Exam 3 is cancelled!</a>
 </h3><br>
@@ -75,8 +77,8 @@ Wk  | Lecture | Readings | Resources
 9 | Oct 27: [Acquisition II](https://public.3.basecamp.com/p/twgpDoK1RZz99XmPhohRZFPB)<br> Oct 29: [Moonshot 5: Prototype](https://public.3.basecamp.com/p/igpfrbHRTMNDJ3pnwrXfAXLb) | [Vissiennon et al 2017](https://app.perusall.com/courses/ling-104-001-2020c-intro-to-language-and-the-brain/vissiennon-2017-functional-organization-of-the-language-network-in?assignmentId=87wtvQi8dd9JZ2Jfu&part=1) | [Peer evaluation 1 due](https://docs.google.com/forms/d/e/1FAIpQLSdfY_bDZ-YfZJ2TmWNsf2el2A6NI0N2_BN-a2SFepsdF6mpVw/viewform?usp=sf_link)<br>[Blog 4 due](https://canvas.upenn.edu/courses/1530046/assignments/8162726)
 10 | ~~Nov 3:  Acquisition II~~ **No class, Vote** <br> Nov 5: [Article Summary Challenge](https://public.3.basecamp.com/p/UZ8iVrjoWBDhGQUgAhQqXaMp) | [Petitto & Marentette 1991](https://app.perusall.com/courses/ling-104-001-2020c-intro-to-language-and-the-brain/babbling-babbling-in-the-manual-mode-evidence-for-the?assignmentId=ujNm4ncat7MPJmWxw&part=1) | [Article Summary (due Nov 4)](https://canvas.upenn.edu/courses/1530046/quizzes/2425883)
 11 | Nov 10: [Sign Language](https://public.3.basecamp.com/p/bK1UGmURN27WxPq9unm6zj7r) <br> Nov 12: [Moonshot 6: Poster draft](https://public.3.basecamp.com/p/nQHLUvLGKP6gfKV1z5vcFYWo)| | [Blog 5 due](https://canvas.upenn.edu/courses/1530046/assignments/8162742)
-12 | Nov 17: Bilingualism <br> Nov 19: **Review or rest** | | ~~[Exam 3 due](https://canvas.upenn.edu/courses/1530046/assignments/8162040)~~ cancelled
-13 | Nov 24: Evolution <br> Nov 26: **Thanksgiving Break** | | 
+12 | Nov 17: ~~Bilingualism~~ cancelled <br> Nov 19: **Review or rest** | | ~~[Exam 3 due](https://canvas.upenn.edu/courses/1530046/assignments/8162040)~~ cancelled
+13 | Nov 24: Bilingualism & Evolution <br> Nov 26: **Thanksgiving Break** | | 
 14 | Dec 1: Cerebellum <br> Dec 3: Poster Feedback   | | Peer evaluation 2 due<br>[Blog post 6 due](https://canvas.upenn.edu/courses/1530046/assignments/8162745) 
 15 | Dec 8: Poster Session| | Final Poster due
 16 | Dec 15: Finals Week | | [Exam 4 due](https://canvas.upenn.edu/courses/1530046/assignments/8162042)
