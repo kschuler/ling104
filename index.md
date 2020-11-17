@@ -7,7 +7,7 @@ title: LING104
 <h3 align="center">Tuesdays & Thursdays 10:30am-12pm <b>Online</b></h3>
 <!--<h3 align="center"><a href="https://upenn.zoom.us/j/91009455786?pwd=T1NEQm8rUnlaOGRoMnlKUitVUDg2QT09">**link to live lecture on zoom**</a>
 </h3> -->
-<h3 align="center">**Class is cancelled today!**</a>
+<h3 align="center">**Class is cancelled today!**
 </h3>
 <h3 align="center"><a href="">Exam 3 is cancelled!</a>
 </h3><br>
