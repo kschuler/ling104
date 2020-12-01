@@ -76,7 +76,7 @@ Wk  | Lecture | Readings | Resources
 11 | Nov 10: [Sign Language](https://public.3.basecamp.com/p/bK1UGmURN27WxPq9unm6zj7r) <br> Nov 12: [Moonshot 6: Poster draft](https://public.3.basecamp.com/p/nQHLUvLGKP6gfKV1z5vcFYWo)| | [Blog 5 due](https://canvas.upenn.edu/courses/1530046/assignments/8162742)
 12 | ~~Nov 17: Bilingualism~~ cancelled <br> Nov 19: **Review or rest** | | ~~[Exam 3 due](https://canvas.upenn.edu/courses/1530046/assignments/8162040)~~ cancelled
 13 | Nov 24: [Bilingualism & Evolution](https://public.3.basecamp.com/p/uyRYLZoA9Yydxktc7TFeXows) <br> Nov 26: **Thanksgiving Break** | | 
-14 | Dec 1: Cerebellum <br> Dec 3: Poster Feedback   | | Peer evaluation 2 due<br>[Blog post 6 due](https://canvas.upenn.edu/courses/1530046/assignments/8162745) 
+14 | Dec 1: [Cerebellum](https://www.kathrynschuler.com/ling001/) <br> Dec 3: Poster Feedback   | | Peer evaluation 2 due<br>[Blog post 6 due](https://canvas.upenn.edu/courses/1530046/assignments/8162745) 
 15 | Dec 8: Poster Session| | Final Poster due
 16 | Dec 15: Finals Week | | [Exam 4 due](https://canvas.upenn.edu/courses/1530046/assignments/8162042)
 
