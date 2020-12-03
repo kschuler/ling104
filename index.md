@@ -76,8 +76,8 @@ Wk  | Lecture | Readings | Resources
 11 | Nov 10: [Sign Language](https://public.3.basecamp.com/p/bK1UGmURN27WxPq9unm6zj7r) <br> Nov 12: [Moonshot 6: Poster draft](https://public.3.basecamp.com/p/nQHLUvLGKP6gfKV1z5vcFYWo)| | [Blog 5 due](https://canvas.upenn.edu/courses/1530046/assignments/8162742)
 12 | ~~Nov 17: Bilingualism~~ cancelled <br> Nov 19: **Review or rest** | | ~~[Exam 3 due](https://canvas.upenn.edu/courses/1530046/assignments/8162040)~~ cancelled
 13 | Nov 24: [Bilingualism & Evolution](https://public.3.basecamp.com/p/uyRYLZoA9Yydxktc7TFeXows) <br> Nov 26: **Thanksgiving Break** | | 
-14 | Dec 1: [Cerebellum](https://public.3.basecamp.com/p/6K8rf1g2D5oqXJiSxKt1MuGU) <br> Dec 3: Poster Feedback   | | Peer evaluation 2 due<br>[Blog post 6 due](https://canvas.upenn.edu/courses/1530046/assignments/8162745) 
-15 | Dec 8: Poster Session| | Final Poster due
+14 | Dec 1: [Cerebellum](https://public.3.basecamp.com/p/6K8rf1g2D5oqXJiSxKt1MuGU) <br> Dec 3: [Poster Feedback](https://public.3.basecamp.com/p/7g3jMoUjNrpncCNLkLAPhKZe)   | | [Peer evaluation 2 due](https://docs.google.com/forms/d/e/1FAIpQLSfMCnY0sNuOA-6pE7_KZe53ZWT7GI5eyzTL62tQ87FblmKqFQ/viewform)<br>[Blog post 6 due](https://canvas.upenn.edu/courses/1530046/assignments/8162745) 
+15 | Dec 8: [Poster Session](https://app.virtualpostersession.org/e/a2f58d434dbf4b1c31141a6c65a5054b)| | [Final Poster due](https://app.virtualpostersession.org/e/a2f58d434dbf4b1c31141a6c65a5054b)
 16 | Dec 15: Finals Week | | [Exam 4 due](https://canvas.upenn.edu/courses/1530046/assignments/8162042)
 
 ## Policies
