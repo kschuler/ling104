@@ -44,7 +44,7 @@ This course offers an introduction to the brain basis of language. Our goal is t
 - **Article Summary (15%)** - You'll be asked to summarize an academic journal article (50 points), get feedback on your summary and give feedback to others (50 points), and then be invited to revise your summary (50 points). 
 ### Extra credit
 - **Community engagement:** For each moonshot assignment, earn 5 points by making kind, constructive comments on other teams' blog posts. 
-- **Research bonus:** Earn 10 bonus points for attending (live or later) any MINDCore seminar this semester and writing a [short paper](not-yet) on how it connects to what you've learned in class.
+- **Research bonus:** Earn 10 bonus points for attending (live or later) any MINDCore seminar this semester and writing a [short paper](resources/research-bonus) on how it connects to what you've learned in class.
 
 ### Getting help
 - **Comment on google docs & slides:** Each week you'll be given links to lecture slides, notes, and assignments (see [Schedule](#schedule)). One way to get help from instructors or classmates is to ask questions right on those documents. 
