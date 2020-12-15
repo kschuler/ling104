@@ -5,7 +5,7 @@ title: LING104
 
 <h2 align="center">Fall 2020 Syllabus</h2>
 <h3 align="center">Tuesdays & Thursdays 10:30am-12pm <b>Online</b></h3>
-<h3 align="center"><a href="https://upenn.zoom.us/j/91009455786?pwd=T1NEQm8rUnlaOGRoMnlKUitVUDg2QT09">**link to live lecture on zoom**</a>
+<h3 align="center"><a href="https://canvas.upenn.edu/courses/1530046/assignments/8162042">**Exam 4 is due Dec 21 at Midnight**</a>
 </h3>
 
 
